@@ -1,0 +1,8 @@
+Saudação generica:
+temporizador: quanto tempo? 10s para segunda msg
+Inativo mais 5 e 10 minutos 
+frase gatilho de final
+final: Nome completo e endereço pra calcular o frete e providenciar o envio dos seus produtos
+final do pedido: resumo dos pedido para whats e email
+usar api dos correios
+
